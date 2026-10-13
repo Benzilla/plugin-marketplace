@@ -658,6 +658,24 @@
         ]
       }
     },
+    "promptbase": {
+      "sha": "be7f5f23f5a2e765b66080f27be7b0019d2b2c48",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "promptbase",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "find-prompts",
+            "description": "Find and use proven AI prompts and skills from PromptBase. Use when the user needs a prompt to generate images, game as…"
+          }
+        ]
+      }
+    },
     "pstack": {
       "sha": "1b6d44ff26d4e242f4e8f68c391e6d2f7ca16def",
       "components": {
