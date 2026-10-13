@@ -415,7 +415,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/promptbasedev/cursor-plugin.git",
-        "sha": "be7f5f23f5a2e765b66080f27be7b0019d2b2c48"
+        "sha": "180f1826356a033749118346dac6ca43424caa41"
       },
       "homepage": "https://promptbase.com/agents",
       "keywords": ["promptbase", "promptbase prompts", "promptbase skills", "promptbase mcp"],
